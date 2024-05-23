@@ -25,3 +25,6 @@ Discord bot written in Python meant for tracking Overwatch ranks and stats using
 ![image](https://github.com/j-sprague/overtrack-discord/assets/73149971/f47f2e6d-4237-409d-9808-6cfb7f9777b5)
 
 ![image](https://github.com/j-sprague/overtrack-discord/assets/73149971/a24f1cec-cfc6-4c79-b765-1c2d0d4fced8)
+
+![image](https://github.com/j-sprague/overtrack-discord/assets/73149971/7c1c2dfb-5d48-417b-9348-d73557201eb7)
+
