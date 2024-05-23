@@ -276,19 +276,19 @@ async def on_message(message):
             )
             await message.channel.send(embed=embed)
         
-        if message.content.startswith("-random overwatch"):
+        if message.content.startswith("-random"):
             roles = ['t','s','d']
             file = open(f'overwatch_heroes.txt','r')
             file_list = file.readlines()
             # print(message.content)
             # print(message.content[18].lower())
             try:
-                if message.content[18].lower() in roles:
+                if message.content[8].lower() in roles:
                     # print('in roles')
                     start_index = 0
                     end_index = 0
                     for i in range(len(file_list)):
-                        if file_list[i][0] == '-' and file_list[i][1].lower() == message.content[18].lower():
+                        if file_list[i][0] == '-' and file_list[i][1].lower() == message.content[8].lower():
                             start_index = i+1
                         elif start_index != 0 and file_list[i][0] == '-':
                             end_index = i-1
