@@ -1,0 +1,44 @@
+-TANK-
+D.Va
+Doomfist
+Mauga
+Orisa
+Ramattra
+Reinhardt
+Roadhog
+Sigma
+Winston
+Junker Queen
+Wrecking Ball
+Zarya
+-DPS-
+Ashe
+Bastion
+Cassidy
+Echo
+Genji
+Hanzo
+Junkrat
+Mei
+Pharah
+Reaper
+Soldier 76
+Sojourn
+Sombra
+Symmetra
+Torbjorn
+Tracer
+Venture
+Widowmaker
+-SUPP-
+Ana
+Baptiste
+Brigitte
+Illari
+Lifeweaver
+Lucio
+Kiriko
+Mercy
+Moira
+Zenyatta
+-end
